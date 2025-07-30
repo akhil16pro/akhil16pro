@@ -1,23 +1,14 @@
- <div align="center">
-      <img
-        src="https://capsule-render.vercel.app/api?type=rounded&height=250&color=gradient&text=A%20K%20H%20I%20L&textBg=false&fontAlign=50&reversal=false&animation=scaleIn&fontSize=100&strokeWidth=4&desc=UI/UX%20developer&descAlignY=85&descSize=19"
-        height="250"
-      />
-    </div>
-
-    <p>
-      Hi there! &nbsp; I’m Akhil Peter George, a seasoned UI/UX developer with
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rounded&height=250&color=gradient&text=A%20K%20H%20I%20L&textBg=false&fontAlign=50&reversal=false&animation=scaleIn&fontSize=100&strokeWidth=4&desc=UI/UX%20developer&descAlignY=85&descSize=19" height="250" /> </div>
+<p>Hi there! &nbsp; I’m Akhil Peter George, a seasoned UI/UX developer with
       over a decade of experience. My passion lies in creating world-class user
       experiences that seamlessly blend form and function. From responsive
       designs to cutting-edge trends, I’m committed to delivering Let’s create
-      digital magic together!
-    </p>
-    <p>
+      digital magic together!</p>
+      <p>
       In my journey, I’ve collaborated with diverse teams, turning concepts into
       reality. Whether it’s wireframes, prototypes, or pixel-perfect developer,
       count on me to elevate your digital presence!
     </p>
-
     <p align="center">
       <a
         href="mailto:akhil16pro@gmail.com?subject=Github%20Visitor&body=Hi%20Akhil,%0AI%20am%20"
