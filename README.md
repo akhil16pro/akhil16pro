@@ -8,8 +8,10 @@
 <br />
 <h3 align="center">⚡ Github Statistics</h3>
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhil16pro&theme=dark&hide_langs_below=1&layout=compact" alt="Akhil Used languages" />
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=akhil16pro&show_icons=true&theme=dark&line_height=30&rank_icon=percentile&custom_title=GitHub%20stats&text_bold=false" alt="Akhil Github stats"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhil16pro&theme=dark&hide_langs_below=1&layout=compact&line_height=30&card_width=500" alt="Akhil Used languages" />
+</p>
+<p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=akhil16pro&show_icons=true&theme=dark&line_height=25&rank_icon=percentile&custom_title=GitHub%20stats&text_bold=false&card_width=500" alt="Akhil Github stats"/>
 </p>
 <br />
 <p align="center"><img src="https://komarev.com/ghpvc/?username=akhil16pro" alt="akhil16pro"/></p>
