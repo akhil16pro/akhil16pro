@@ -2,9 +2,9 @@
 <br /><br />
 <p valign="center">Hi there! &nbsp;
 <img width="28" src="img/iconHand.webp" alt="Akhil welecome" />
-<br />
- I’m <strong>Akhil Peter George</strong>, a seasoned <strong><img width="28" src="img/iconBrain.webp"  />&nbsp;
-UI/UX developer</strong> with over a decade of experience. My passion lies in creating world-class user experiences that seamlessly blend form and function. From responsive designs to cutting-edge trends, I’m committed to delivering <i>Let’s create digital magic together!</i></p><p>In my journey, I’ve collaborated with diverse teams, turning concepts intoreality. Whether it’s wireframes, prototypes, or pixel-perfect developer,count on me to elevate your digital presence!</p>
+<br /><br />
+ I’m <strong><img width="28" src="img/iconLaptop.webp"/>&nbsp;Akhil Peter George</strong>, a seasoned <strong><img width="28" src="img/iconBrain.webp"/>&nbsp;
+UI/UX developer</strong> with over a decade of experience. My passion lies in creating world-class user experiences that seamlessly blend form and function. From responsive designs to cutting-edge trends <img width="28" src="img/iconRocket.webp"/>,I’m committed to delivering</p><p><img width="28" src="img/iconBubble.webp"/>&nbsp;<i><strong>Let’s create digital magic together!</strong></i></p><p>In my journey, I’ve collaborated with diverse teams, turning concepts intoreality. Whether it’s wireframes, prototypes, or pixel-perfect developer,count on me to elevate your digital presence! &nbsp;<img width="28" src="img/iconSmile.webp"/></p>
 <br />
 <p align="center"><a href="mailto:akhil16pro@gmail.com?subject=Github%20Visitor&body=Hi%20Akhil,%0AI%20am%20"><img src="http://img.shields.io/badge/akhil16pro@gmail.com-_?label=Send%20Mail&style=social&logo=gmail" alt="akhil16pro@gmail.com"/></a></p>
 <br />
