@@ -1,8 +1,10 @@
 <div align="center"><img src="https://capsule-render.vercel.app/api?type=cylinder&height=250&color=gradient&text=A%20K%20H%20I%20L&textBg=false&fontAlign=50&reversal=false&animation=scaleIn&fontSize=100&desc=UI/UX%20developer&descAlignY=85&descSize=19"  height="250" /> </div>
 <br /><br />
-<p>Hi there! &nbsp;
+<p valign="center">Hi there! &nbsp;
+<img width="28" src="img/iconHand.webp" alt="Akhil welecome" />
 <br />
- I’m <strong>Akhil Peter George</strong>, a seasoned <strong>UI/UX developer</strong> with over a decade of experience. My passion lies in creating world-class user experiences that seamlessly blend form and function. From responsive designs to cutting-edge trends, I’m committed to delivering <i>Let’s create digital magic together!</i></p><p>In my journey, I’ve collaborated with diverse teams, turning concepts intoreality. Whether it’s wireframes, prototypes, or pixel-perfect developer,count on me to elevate your digital presence!</p>
+ I’m <strong>Akhil Peter George</strong>, a seasoned <strong><img width="28" src="img/iconBrain.webp"  />&nbsp;
+UI/UX developer</strong> with over a decade of experience. My passion lies in creating world-class user experiences that seamlessly blend form and function. From responsive designs to cutting-edge trends, I’m committed to delivering <i>Let’s create digital magic together!</i></p><p>In my journey, I’ve collaborated with diverse teams, turning concepts intoreality. Whether it’s wireframes, prototypes, or pixel-perfect developer,count on me to elevate your digital presence!</p>
 <br />
 <p align="center"><a href="mailto:akhil16pro@gmail.com?subject=Github%20Visitor&body=Hi%20Akhil,%0AI%20am%20"><img src="http://img.shields.io/badge/akhil16pro@gmail.com-_?label=Send%20Mail&style=social&logo=gmail" alt="akhil16pro@gmail.com"/></a></p>
 <br />
